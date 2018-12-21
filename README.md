@@ -5,4 +5,5 @@ Installation:
 
 Thanks to SkylineGTRFreak for the CAR
 
-
+more info here
+https://forum.fivem.net/t/release-vapid-contender-airport-stairs-extendable-stairs-add-on/209838
